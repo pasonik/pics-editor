@@ -2,7 +2,6 @@
 import os
 # Модуль для обработки картиночек
 from PIL import Image
-from PIL.ImageQt import ImageQt
 from PIL import ImageFilter
 from PIL.ImageFilter import (
     BLUR, CONTOUR, DETAIL, EDGE_ENHANCE, EDGE_ENHANCE_MORE,
